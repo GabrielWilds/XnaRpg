@@ -1,0 +1,12 @@
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\bin\x86\Debug\EyesOfTheDragon.exe
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\bin\x86\Debug\EyesOfTheDragon.pdb
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\bin\x86\Debug\RpgLibrary.dll
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\bin\x86\Debug\XRpgLibrary.dll
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\bin\x86\Debug\RpgLibrary.pdb
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\bin\x86\Debug\XRpgLibrary.pdb
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\obj\x86\Debug\EyesOfTheDragon.exe
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\obj\x86\Debug\EyesOfTheDragon.pdb
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\bin\x86\Debug\Content\Backgrounds\titlescreen.xnb
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\EyesOfTheDragon\EyesOfTheDragon\bin\x86\Debug\Content\Fonts\ControlFont.xnb

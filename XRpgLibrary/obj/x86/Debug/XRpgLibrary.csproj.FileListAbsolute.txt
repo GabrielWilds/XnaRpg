@@ -1,0 +1,6 @@
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\XRpgLibrary\bin\x86\Debug\XRpgLibrary.dll
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\XRpgLibrary\bin\x86\Debug\XRpgLibrary.pdb
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\XRpgLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\XRpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\XRpgLibrary\obj\x86\Debug\XRpgLibrary.dll
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\XRpgLibrary\obj\x86\Debug\XRpgLibrary.pdb

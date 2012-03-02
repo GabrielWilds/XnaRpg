@@ -1,0 +1,5 @@
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\RpgLibrary\bin\Debug\RpgLibrary.dll
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\RpgLibrary\bin\Debug\RpgLibrary.pdb
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\RpgLibrary\obj\Debug\ResolveAssemblyReference.cache
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\RpgLibrary\obj\Debug\RpgLibrary.dll
+W:\Users\JSL\Documents\Visual Studio 2010\Projects\EyesOfTheDragon\RpgLibrary\obj\Debug\RpgLibrary.pdb
